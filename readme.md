@@ -1,2 +1,2 @@
 # My Simple Streamlit Demo
-<img src="streamlit_demo.jpg" alt="instructions">
+<img src="streamlit_demo.jpeg" alt="instructions">
